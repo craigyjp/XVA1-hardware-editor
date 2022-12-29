@@ -3,7 +3,7 @@ A copy of the physical XVA1 hardware editor by MacMannes
 
 I took the unfinished (due to illness) XVA1 hardware editor by MacMannes and doubled the displays and encoders and added a save facility for your edits.
 
-It runs on a Teensy 4.1 and the rest of the hardware is similar to the original
+It runs on a Teensy 3.6 and the rest of the hardware is similar to the original
 
 It's not completed due to the war in my country but is more functional than the original except for the envelope displays
 
